@@ -1,0 +1,4 @@
+pydantic-ai[google]
+gradio
+python-dotenv
+beautifulsoup4
